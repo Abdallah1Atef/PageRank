@@ -27,7 +27,4 @@ The project demonstrates how the PageRank algorithm works by simulating a small 
 - **Matplotlib**: For graph visualization (optional).
 - **NetworkX**: For graph creation and manipulation (optional).
 
-### Installation
-To install the required libraries, run:
-```bash
-pip install numpy matplotlib networkx
+
